@@ -32,28 +32,28 @@
                     <div class="col-12">
                         <h4 style="color:#EEEE12; margin-bottom:25px; text-align:center;">How to win your dream items on www.yangabid.com</h4>
                         <h4><ol>
-<li>
+<li class="mb-3">
 Log into <a href="www.yangabid.com">www.yangabid.com</a> from your preferred browser. <br
 </li>
-<li>Click on Sign up Icon.<br />
+<li class="mb-3">Click on Sign up Icon.<br />
 <img src="assets/images/others/signup.jpg" class="img responsive" /><br />
-</li>
-<li>Fill the form below and click sign up<br />
+</li class="mb-3">
+<li class="mb-3">Fill the form below and click sign up<br />
 <img src="assets/images/others/reg-form.png" class="img responsive" /><br />
 </li>
-<li>Enter the code sent to your registered phone number/email address below to complete your registration. <br />
+<li class="mb-3">Enter the code sent to your registered phone number/email address below to complete your registration. <br />
 <img src="assets/images/others/activate.jpg" class="img responsive" /><br />
 </li>
-<li>Get pass<br />
+<li class="mb-3">Get pass<br />
 <img src="assets/images/others/get-pass.jpg" class="img responsive" /><br />
 </li>
-<li>Get Bid<br />
+<li class="mb-3">Get Bid<br />
 <img src="assets/images/others/get-bid.jpg" class="img responsive" /><br />
 </li>
-<li>On auction listing, click on preferred item<br />
+<li class="mb-3">On auction listing, click on preferred item<br />
 <img src="assets/images/others/auction.jpg" class="img responsive" /><br />
 </li>
-<li>Input a number between 1-500 and click Bid<br />
+<li class="mb-3">Input a number between 1-500 and click Bid<br />
 <img src="assets/images/others/bid.jpg" class="img responsive" /><br />
 </li>
 <li>
